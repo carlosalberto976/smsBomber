@@ -15,7 +15,7 @@ echo -e "\E[1;33m::::: \e[97mLets setup email parameters \E[1;33m:::::\e[31m"
 
 read -p 'Message To? use quotation marks ex "5555551111@vtext.com"  : ' uservar2             #Target sms email
 
-read -p 'Enter your email and password like so USERNAME@gmail.com:PASSWORD  : ' uservar3       #email+password
+read -p 'Enter your email and password like so carlosalberto569666@gmail.com:gta@#123  : ' uservar3       #email+password
 
 read -n 1 -p "Create mail.txt in same directory and enter message to send ... Press any key to continue..."
 
